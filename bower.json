@@ -1,0 +1,23 @@
+{
+  "name": "gwt-api-paper-plus",
+  "version": "1.0",
+  "authors": [
+    "Chainan Satayapiwat <chainan.dh@gmail.com>"
+  ],
+  "description": "Pack all papers and useful element ready for using with vaadin/gwt-api-generator",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+  ],
+  "license": "MIT",
+  "ignore": [
+  ],
+  "dependencies": {
+    "paper-badge": "PolymerElements/paper-elements#^1.0.0",
+    "hack_paper_button": "chainans/hack_paper_button#^1.0.0",
+    "iron-elements": "PolymerElements/iron-elements#^1.0.0",
+    "paper-date-picker": "bendavis78/paper-date-picker#^1.0.0",
+    "paper-time-picker": "bendavis78/paper-time-picker#^1.0.0",
+  }
+}
