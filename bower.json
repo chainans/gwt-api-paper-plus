@@ -4,6 +4,10 @@
   "authors": [
     "Chainan Satayapiwat <chainan.dh@gmail.com>"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chainans/gwt-api-paper-plus.git"
+  },
   "description": "Pack all papers and useful element ready for using with vaadin/gwt-api-generator",
   "keywords": [
     "web-component",
