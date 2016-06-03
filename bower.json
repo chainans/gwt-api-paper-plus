@@ -12,7 +12,7 @@
   "keywords": [
     "web-component",
     "web-components",
-    "polymer",
+    "polymer"
   ],
   "license": "MIT",
   "ignore": [
@@ -22,7 +22,7 @@
     "hack_paper_button": "chainans/hack_paper_button#^1.0.0",
     "iron-elements": "PolymerElements/iron-elements#^1.0.0",
     "paper-date-picker": "bendavis78/paper-date-picker#^1.0.0",
-    "paper-time-picker": "bendavis78/paper-time-picker#^1.0.0",
+    "paper-time-picker": "bendavis78/paper-time-picker#^1.0.0"
   },
   "main": "gwt-api-paper-plus.html"
 }
