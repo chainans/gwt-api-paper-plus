@@ -18,7 +18,7 @@
   "ignore": [
   ],
   "dependencies": {
-    "paper-badge": "PolymerElements/paper-elements#^1.0.0",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.0",
     "hack_paper_button": "chainans/hack_paper_button#^1.0.0",
     "iron-elements": "PolymerElements/iron-elements#^1.0.0",
     "paper-date-picker": "bendavis78/paper-date-picker#^1.0.0",
